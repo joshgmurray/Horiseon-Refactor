@@ -20,4 +20,4 @@ https://joshgmurray.github.io/Horiseon-Refactor/
 ## Repo Link
 https://github.com/joshgmurray/Horiseon-Refactor/
 ## Screenshot
-[screenshot](/assets/images/Screen%20Shot%202022-08-12%20at%2012.24.31%20PM.png)
+![screenshot](/assets/images/Screen%20Shot%202022-08-12%20at%2012.24.31%20PM.png)
